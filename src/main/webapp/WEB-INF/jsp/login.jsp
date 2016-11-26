@@ -3,7 +3,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 <head>
-<title>一站式课程管理系统</title>
+<title>KPCQ</title>
 <!-- CSS -->
 <link rel='stylesheet' href='<c:url value="/static/css/bootstrap.min.css"></c:url>' type="text/css" />
 <link rel='stylesheet' href='<c:url value="/static/css/reset.css"></c:url>'
